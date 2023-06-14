@@ -14,7 +14,7 @@ class solution {
         if(!bigger.startsWith(smaller)){
             return "";
         }
-        return gcdOfStrings(bigger.substring(smaller.length()), smaller)
+        return gcdOfStrings(bigger.substring(smaller.length()), smaller);
     }
     
 }
