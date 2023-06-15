@@ -6,6 +6,7 @@
 var kidsWithCandies = function(candies, extraCandies) {
     // let result = new Array();
     const max = Math.max(...candies);
+    //for Each looping =>
     // candies.forEach((candie, index) => {
     //     if(candie + extraCandies >= max){
     //         result[index] = true;
