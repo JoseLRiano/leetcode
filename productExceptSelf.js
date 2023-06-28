@@ -1,0 +1,3 @@
+var productExceptSelf = funtion(nums) {
+    
+}
