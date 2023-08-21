@@ -1,3 +1,4 @@
+package facebookTop100;
 class Solution{
     public int[] productExceptSelf(int[] nums){
         int right = 1;
